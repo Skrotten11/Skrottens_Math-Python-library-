@@ -10,6 +10,7 @@ How to use:
    -If you for example wish to add two numbers, use the add function like this: Skrottens_Math.add(value1, value2)
     This will return the answer. The other functions are used completely similar.
     -The library folder should be located in same folder as project.
+     
      Example: /myproject
                |
                |
