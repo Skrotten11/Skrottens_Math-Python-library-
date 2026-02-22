@@ -1,10 +1,10 @@
 # Skrottens_Math-Python-library-
 Welcome to Skrottens Math! This is a simple math library containing the following functions:
 
-add()
-substract()
-multiply()
-divide()
+add(),
+substract(),
+multiply(),
+divide(),
 
 How to use:
    -If you for example wish to add two numbers, use the add function like this: Skrottens_Math.add(value1, value2)
